@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/mystery-pocong/static/css/main.149ecb9f.chunk.css",
+    "main.js": "/mystery-pocong/static/js/main.2a9ab860.chunk.js",
+    "main.js.map": "/mystery-pocong/static/js/main.2a9ab860.chunk.js.map",
+    "runtime-main.js": "/mystery-pocong/static/js/runtime-main.4d9898a8.js",
+    "runtime-main.js.map": "/mystery-pocong/static/js/runtime-main.4d9898a8.js.map",
+    "static/js/2.7d94dc6b.chunk.js": "/mystery-pocong/static/js/2.7d94dc6b.chunk.js",
+    "static/js/2.7d94dc6b.chunk.js.map": "/mystery-pocong/static/js/2.7d94dc6b.chunk.js.map",
+    "index.html": "/mystery-pocong/index.html",
+    "precache-manifest.e9540f1001a0ed7119accaae1a462790.js": "/mystery-pocong/precache-manifest.e9540f1001a0ed7119accaae1a462790.js",
+    "service-worker.js": "/mystery-pocong/service-worker.js",
+    "static/css/main.149ecb9f.chunk.css.map": "/mystery-pocong/static/css/main.149ecb9f.chunk.css.map",
+    "static/js/2.7d94dc6b.chunk.js.LICENSE.txt": "/mystery-pocong/static/js/2.7d94dc6b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4d9898a8.js",
+    "static/js/2.7d94dc6b.chunk.js",
+    "static/css/main.149ecb9f.chunk.css",
+    "static/js/main.2a9ab860.chunk.js"
+  ]
+}
